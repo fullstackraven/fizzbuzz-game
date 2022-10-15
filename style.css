@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(221, 230, 129);
+}
+
+.wrapper {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;  
+}
+
+.output {
+    border: solid rgb(0, 0, 0) 4px; 
+    border-radius: 40px; 
+    background-color: lightgray; 
+    color: black; 
+    width: 300px; 
+    height: auto; 
+}
