@@ -22,7 +22,3 @@ let answer = parseInt(prompt("Please enter the number you would like to FizzBuzz
                     output.appendChild(para);
 
                 }
-
-                const clearBtn = document.querySelector('.clear');
-
-                clearBtn.addEventListener('click', () => para.textContent = '');
